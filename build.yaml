@@ -1,0 +1,8 @@
+include:
+  # Prospector Scanner
+  - board: seeeduino_xiao_ble
+    shield: prospector_scanner
+
+  # Settings reset
+  - board: seeeduino_xiao_ble
+    shield: settings_reset
